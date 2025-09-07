@@ -1,0 +1,1 @@
+import{p as e}from"./chunk-PVWAREVJ-BKTQPsXo.js";const r=()=>e.jsx("footer",{className:"w-full bg-gray-900 border-t border-white/10 mt-20",children:e.jsx("div",{className:"max-w-screen-xl mx-auto py-6 px-4",children:e.jsx("p",{className:"text-center text-sm text-gray-400",children:"React-Router v7 Demo : By CS, 2568"})})});export{r as F};
